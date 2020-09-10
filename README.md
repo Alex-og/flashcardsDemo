@@ -5,7 +5,8 @@ About
 When learning a new language, it can be hard to remember all the new vocabulary, which is exactly where flashcards can help. 
 Typically, flashcards show a hint (a task or a picture) on one side and the right answer on the other. 
 Flashcards can be used to remember any sort of data, so if you want to structure new data for memorization, 
-this program will be an indispensable assistant.
+this program will be an indispensable assistant. The program remembers the history and at the next working session 
+the data is loaded automatically and you can continue to study the cards
 
 Example:
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
@@ -19,35 +20,35 @@ File name:
 28 cards have been loaded.                                                                                                                                                       
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> hardest card
-The hardest card is "France". You have 10 errors answering it.
+> hardest card                                                                                                                                                                   
+The hardest card is "France". You have 10 errors answering it.                                                                                                                   
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> ask
-How many times to ask?
-> 1
+> ask                                                                                                                                                                           
+How many times to ask?                                                                                                                                                           
+> 1                                                                                                                                                                             
 Print the definition of "Russia":
-> Paris
-Wrong. The right answer is "Moscow", but your definition is correct for of "France" card.
+> Paris                                                                                                                                                                         
+Wrong. The right answer is "Moscow", but your definition is correct for of "France" card.                                                                                       
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> hardest card
-The hardest cards are "Russia", "France". You have 10 errors answering them.
+> hardest card                                                                                                                                                                   
+The hardest cards are "Russia", "France". You have 10 errors answering them.                                                                                                     
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> reset stats
-Card statistics has been reset.
+> reset stats                                                                                                                                                                   
+Card statistics has been reset.                                                                                                                                                 
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> hardest card
-There are no cards with errors.
+> hardest card                                                                                                                                                                   
+There are no cards with errors.                                                                                                                                                 
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> log
-File name:
-> todayLog.txt
-The log has been saved.
+> log                                                                                                                                                                           
+File name:                                                                                                                                                                      
+> todayLog.txt                                                                                                                                                                   
+The log has been saved.                                                                                                                                                         
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> exit
+> exit                                                                                                                                                                           
 Bye bye!

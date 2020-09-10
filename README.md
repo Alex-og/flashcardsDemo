@@ -9,14 +9,14 @@ this program will be an indispensable assistant.
 
 Example:
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> hardest card
+> hardest card                                                                                                                                                                   
 There are no cards with errors.
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
-> import
-File name:
-> capitals.txt
-28 cards have been loaded.
+> import                                                                                                                                                                         
+File name:                                                                                                                                                                       
+> capitals.txt                                                                                                                                                                   
+28 cards have been loaded.                                                                                                                                                       
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
 > hardest card
